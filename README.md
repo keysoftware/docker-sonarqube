@@ -11,7 +11,7 @@ See `Makefile`.
 
 #### SonarQube
 
-Access the SonarQube dashboard: http://<docker-machine ip>:9000/.
+Access the SonarQube dashboard: `http://<docker-machine ip>:9000/`.
 
 *Default login:*
 
